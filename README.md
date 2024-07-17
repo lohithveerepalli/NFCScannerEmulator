@@ -1,5 +1,3 @@
-# NFCScannerEmulator
-
 # NFC Scanner and Emulator
 
 ## Description
