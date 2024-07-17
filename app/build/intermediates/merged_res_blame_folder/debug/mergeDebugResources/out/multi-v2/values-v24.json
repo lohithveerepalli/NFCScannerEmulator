@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.nfc.app-mergeDebugResources-54:/values-v24/values-v24.xml",
+            "map": [
+                {
+                    "source": "/Users/lohithveerepalli/.gradle/caches/transforms-4/b1f80489e0043057b0965c0f82ec8795/transformed/appcompat-1.4.0/res/values-v24/values-v24.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,212",
+                        "endColumns": "156,134",
+                        "endOffsets": "207,342"
+                    }
+                }
+            ]
+        }
+    ]
+}
